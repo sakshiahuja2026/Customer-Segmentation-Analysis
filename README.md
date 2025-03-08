@@ -26,7 +26,7 @@ The Sales Dashboard provides an **overview of sales performance** to analyze tre
 ✔ **Weekly Trends** – Highlights **weekly sales and profit fluctuations**, identifying **above and below-average weeks**.  
 
 ### **Sales Dashboard Preview**  
-![Sales Dashboard](Salesdashboard.png)
+![Sales Dashboard](Sales Dashboard.png)
 
 ---
 
@@ -41,7 +41,7 @@ The Customer Dashboard provides insights into **customer trends and purchasing b
 ✔ **Top 10 Customers** – Identifies the **most profitable customers**, along with **sales, orders, and last purchase date**.
 
 ### **Customer Dashboard Preview**  
-![Customer Dashboard](Customerdashboard.png)
+![Customer Dashboard](Customer Dashboard.png)
 
 ---
 
