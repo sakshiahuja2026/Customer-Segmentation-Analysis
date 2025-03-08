@@ -26,7 +26,7 @@ The Sales Dashboard provides an **overview of sales performance** to analyze tre
 ✔ **Weekly Trends** – Highlights **weekly sales and profit fluctuations**, identifying **above and below-average weeks**.  
 
 ### **Sales Dashboard Preview**  
-![Sales Dashboard](Sales Dashboard.png)
+![Sales Dashboard](Sales%20Dashboard.png)
 
 ---
 
