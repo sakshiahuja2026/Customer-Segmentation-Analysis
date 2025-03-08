@@ -41,7 +41,7 @@ The Customer Dashboard provides insights into **customer trends and purchasing b
 ✔ **Top 10 Customers** – Identifies the **most profitable customers**, along with **sales, orders, and last purchase date**.
 
 ### **Customer Dashboard Preview**  
-![Customer Dashboard.png](Customer Dashboard.png)
+![Customer Dashboard](Customer%20Dashboard.png)
 
 ---
 
